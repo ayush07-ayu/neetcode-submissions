@@ -1,3 +1,16 @@
+# NeetCode Practice
+
+Daily NeetCode problem solutions and DSA practice in Python.
+
+Topics:
+- Arrays
+- Hashing
+- Strings
+- Stack
+- Trees
+- DP
+
+
 # NeetCode Solutions — @ayush07-ayu
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
